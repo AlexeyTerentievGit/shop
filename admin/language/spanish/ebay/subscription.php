@@ -1,0 +1,22 @@
+<?php
+$_['lang_heading']              = 'Subscripción';
+$_['lang_openbay']              = 'OpenBay Pro';
+$_['lang_ebay']                 = 'eBay';
+$_['lang_page_title']           = 'OpenBay Pro para eBay';
+$_['lang_error_validation']     = 'Necesitas registrar Tu  API token y habilitar el modulo.';
+$_['lang_btn_return']           = 'Regresar';
+$_['lang_load']                 = 'Refrescar';
+$_['lang_usage_title']          = 'Uso';
+$_['lang_subscription_current'] = 'Plan actual';
+$_['lang_subscription_avail']   = 'Planes disponibles';
+$_['lang_subscription_avail1']  = 'El cambio de planes sera inmediato y las llamadas no usadas no seran cargadas.';
+$_['lang_subscription_avail2']  = 'Para regresar al plan basico por favor cancela tu subscripción actual en PayPal.';
+$_['lang_ajax_acc_load_plan']   = 'Id de la subscripción en PayPal: ';
+$_['lang_ajax_acc_load_plan2']  = ', debes cancelar todas las otras subscripciones de nosotros';
+$_['lang_ajax_acc_load_text1']  = 'Nombre del plan';
+$_['lang_ajax_acc_load_text2']  = 'Limite de la llamada';
+$_['lang_ajax_acc_load_text3']  = 'Precio (p/mes)';
+$_['lang_ajax_acc_load_text4']  = 'Descripción';
+$_['lang_ajax_acc_load_text5']  = 'Plan actual';
+$_['lang_ajax_acc_load_text6']  = 'Cambiar de plan';
+$_['lang_ajax_load_error']      = 'Lo snetimos, no pudimos obtener una respuesta. Trata de nuevo despues.';

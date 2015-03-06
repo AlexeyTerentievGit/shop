@@ -1,0 +1,27 @@
+<?php
+$_['lang_title']                    = 'OpenBay Pro para Amazon US | Enlaces de los artículos';
+$_['lang_openbay']                  = 'OpenBay Pro';
+$_['lang_overview']                 = 'Información general de Amazon US';
+$_['lang_btn_return']               = 'Regresar';
+$_['lang_link_items']               = 'Enlace de los artículos';
+$_['lang_item_links']               = 'Artículo de los enlaces';
+$_['lang_desc1']                    = 'Enlazando tus artículos podras permitir el control del stock en tus listas de Amazon US.<br /> Por cada artículo que es actualizado el stock local (el stock disponible en tu tienda OpenCart) acutalizara tus listas de Amazon US';
+$_['lang_desc2']                    = 'Tu puedes enlazar artículos manualmente insertando el Amazon US SKU y el nombre del producto o cargar todos los productos no enlzados y entonces introducir los amazon US SKUs. (Subir productos de Opencart a Amazon automaticamente agregara enlaces)';
+$_['lang_load_btn']                 = 'Cargar';
+$_['lang_new_link']                 = 'Nuevo enlace';
+$_['lang_autocomplete_product']     = 'Product0<span class="help">(Autocompleta con el nombre)</span>';
+$_['lang_amazonus_sku']               = 'El SKU del Item de Amazon';
+$_['lang_action']                   = 'Acción';
+$_['lang_add']                      = 'Agregar';
+$_['lang_add_sku_tooltip']          = 'Agregar otro sku';
+$_['lang_remove']                   = 'Remover';
+$_['lang_linked_items']             = 'Artículos enlazados';
+$_['lang_unlinked_items']           = 'Artículos no enlazados';
+$_['lang_name']                     = 'Nombre';
+$_['lang_model']                    = 'Modelo';
+$_['lang_combination']              = 'Combinación';
+$_['lang_sku']                      = 'SKU';
+$_['lang_amazonus_sku']             = 'SKU del artículo de Amazon';
+$_['lang_sku_empty_warning']        = 'El SKU de Amazon no puede estar vacio!';
+$_['lang_name_empty_warning']       = 'EL nombre del producto no puede estar vacio!';
+$_['lang_product_warning']          = 'El producto no existe. Por favor usar los valores del autocomplete.';

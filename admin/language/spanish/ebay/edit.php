@@ -1,0 +1,32 @@
+<?php
+$_['lang_title']                    = 'OpenBay Pro';
+$_['lang_page_title']               = 'Revisar las listas de eBay';
+$_['lang_home']                     = 'Principal';
+$_['lang_save']                     = 'Guardar';
+$_['lang_ebay']                     = 'eBay';
+$_['lang_pageaction']               = 'Revisar listas';
+$_['lang_view']                     = 'Ver listas';
+$_['lang_remove']                   = 'Remover enlace';
+$_['lang_end']                      = 'Lista final';
+$_['lang_cancel']                   = 'Cancelar';
+$_['lang_loading']                  = 'Obtener información del artículo desde eBay';
+$_['lang_retry']                    = 'Tratar de Nuevo';
+$_['lang_error_loading']            = 'Hubo un error obteniendo la información de eBay';
+$_['lang_saved']                    = 'La lista no ha sido guardada';
+$_['lang_tbl_title']                = 'Titulo';
+$_['lang_tbl_price']                = 'Precio<span class="help">Incluye impuestos</span>';
+$_['lang_tbl_qty_instock']          = 'Nivel del stock local<span class="help">Este es el nivel del estock en Opencart</span>';
+$_['lang_tbl_qty_listed']           = 'Cantidad en ebay<span class="help">Este es el nivel actual del stock en eBay</span>';
+$_['lang_tbl_qty_reserve']          = 'Revertir nivel<span class="help">Este es le nivel máximo de stock en eBay (0 = no hay limite para revertir)</span>';
+$_['lang_alert_removed']            = 'La lista se le ha quitado el enlace';
+$_['lang_alert_ended']              = 'La lista ha sido finalizada en eBay';
+$_['lang_confirm']                  = '¿Estas seguro?';
+
+$_['lang_stock_matrix']             = 'Matrix del stock';
+$_['lang_stock_col_qty_total']      = 'En stock';
+$_['lang_stock_col_qty']            = 'Para listar';
+$_['lang_stock_col_qty_reserve']    = 'Revertido';
+$_['lang_stock_col_comb']           = 'Combinación';
+$_['lang_stock_col_price']          = 'Precio';
+$_['lang_stock_col_enabled']        = 'Habilitado';
+$_['lang_qty']                      = 'Cantidad para lsitar<span class="help">Introducir un nivel menor si tu quieres mantener un nivel menor en el stock</span>';

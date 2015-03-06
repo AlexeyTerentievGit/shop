@@ -1,0 +1,21 @@
+<?php
+$_['lang_btn_status']           = 'Cambiar estatus';
+$_['lang_order_channel']        = 'Canal para envios';
+$_['lang_confirmed']            = 'Los envios han sido marcados';
+$_['lang_no_orders']            = 'Ningun envío ha sido seleccionado para actualizar';
+$_['lang_confirm_title']        = 'Vista rapida del estado del volcado en volumen para actualizaciones';
+$_['lang_confirm_change_text']  = 'Cambiar el estado del pedido a';
+$_['lang_column_addtional']     = 'Información adicional';
+$_['lang_column_comments']      = 'Comentarios';
+$_['lang_column_notify']        = 'Notificaciones';
+$_['lang_carrier']              = 'Carreras';
+$_['lang_tracking']             = 'Seguimiento';
+$_['lang_other']                = 'Otros';
+$_['lang_refund_reason']        = 'Razón de la devolución';
+$_['lang_refund_message']       = 'Mensjae de la devolución';
+$_['lang_update']               = 'Actualizar';
+$_['lang_cancel']               = 'Cancelar';
+$_['lang_e_ajax_1']             = 'En una pedido no se encuentra el mensaje de devolución!';
+$_['lang_e_ajax_2']             = 'En un pedido no se encuentra la información de seguimiento!';
+$_['lang_e_ajax_3']             = 'Un pedido de Amazon no se encuentra introducir "Otra carrera"!';
+$_['lang_title_order_update']   = 'Actualizar volumen de pedidos';
